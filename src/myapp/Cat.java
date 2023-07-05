@@ -1,5 +1,5 @@
 package myapp;
 
 public class Cat {
-    private int num;
+    private int level;
 }
